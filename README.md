@@ -38,3 +38,27 @@
 36. ---
 37. Pętla for - (1/2 + 2/3 + 3/4 + ...)
 38. NWD - (Największy wspólnych dzielnik)
+39. Obliczanie x^n
+40. Pętla do_while - Suma losowych liczb
+41. Pętla while - Suma losowych liczb
+42. Pętla for - silnia
+43. Pętla for - suma kwadratów
+44. Dzielniki liczby
+45. Liczby podzielne przez 13
+46. Loteria
+47. ---
+48. Obliczanie wysokości pensji
+49. Switch - pole figur geometrycznych
+50. Kalkulator
+51. Trójka Pitagorejska
+52. Switch_case - oceny
+53. Największa liczba
+54. Metoda wyznaczników - wzór Cramera
+55. Równanie kwadratowe
+56. Pierwiastek
+57. else if
+58. Suma liczb dodatnich
+59. Wartość funkcji w punkcie
+60. Obliczanie wartości równania - <math.h>
+61. Stopnie Farenheita
+62. Maksymalna liczba
