@@ -11,7 +11,7 @@
 9. Funkcja void (iloczyn) - trzeci sposób
 10. Funkcja int (iloczyn)
 11. Działania matematyczne
-12. -
+12. _
 13. Macierz trójkątna
 14. Tablice - ilość wystąpień danej liczby
 15. Macierz - zamiana elementów na przekątnych
@@ -27,15 +27,15 @@
 25. Tablice - suma i średnia
 26. Pętla for - (1 + 1/3 + 1/9 + ...)
 27. If - czy punkt należy do zbioru
-28. -
-29. -
+28. _
+29. _
 30. Wszystkie liczby pierwsze z przedziału [2,n] - drugi sposób
 31. Piramida - potęgi kolejnych liczb
 32. Sprawdzanie czy liczba jest doskonała
 33. Piramida złożona z "*"
 34. Pętla for w połączeniu z instrukcją warunkową
 35. Sprawdzanie czy liczba jest pierwsza
-36. -
+36. _
 37. Pętla for - (1/2 + 2/3 + 3/4 + ...)
 38. NWD - (Największy wspólnych dzielnik)
 39. Obliczanie x^n
@@ -46,7 +46,7 @@
 44. Dzielniki liczby
 45. Liczby podzielne przez 13
 46. Loteria
-47. -
+47. _
 48. Obliczanie wysokości pensji
 49. Switch - pole figur geometrycznych
 50. Kalkulator
