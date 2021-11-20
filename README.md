@@ -1,26 +1,40 @@
 # Podstawy-programowania-UG
 
-Funkcja void (pole, objętość)
-Funkcja void (mnożenie, dodawanie)
-Funkcja void (dodawanie - wskaźnik)
-Funkcja void (dodawanie - bez wskaźnika)
-Wszystkie liczby pierwsze z przedziału [2,n]
-Funkcja float (potęgi)
-Funkcja void (iloczyn) - pierwszy sposób
-Funkcja void (iloczyn) - drugi sposób
-Funkcja void (iloczyn) - trzeci sposób
-Funkcja int (iloczyn)
-Działania matematyczne
-Hello world!
-Macierz trójkątna
-Tablice - ilość wystąpień danej liczby
-Macierz - zamiana elementów na przekątnych
-Macierz - zamiana wierszy
-Macierz - element maksymalny
-Tablice ciąg dalszy
-Tablice - element najmniejszy
-Tablice - elementy podzielne przez p
-Tablice - wypisywanie elementów z przedziału [c,d]
-Tablice - kwadraty liczb
-Tablice - ilość i suma liczb nieparzystych
-Tablice - ilość wystąpień danej liczby
+1. Funkcja void (pole, objętość)
+2. Funkcja void (mnożenie, dodawanie)
+3. Funkcja void (dodawanie - wskaźnik)
+4. Funkcja void (dodawanie - bez wskaźnika)
+5. Wszystkie liczby pierwsze z przedziału [2,n]
+6. Funkcja float (potęgi)
+7. Funkcja void (iloczyn) - pierwszy sposób
+8. Funkcja void (iloczyn) - drugi sposób
+9. Funkcja void (iloczyn) - trzeci sposób
+10. Funkcja int (iloczyn)
+11. Działania matematyczne
+12. Hello world!
+13. Macierz trójkątna
+14. Tablice - ilość wystąpień danej liczby
+15. Macierz - zamiana elementów na przekątnych
+16. Macierz - zamiana wierszy
+17. Macierz - element maksymalny
+18. Tablice ciąg dalszy
+19. Tablice - element najmniejszy
+20. Tablice - elementy podzielne przez p
+21. Tablice - wypisywanie elementów z przedziału [c,d]
+22. Tablice - kwadraty liczb
+23. Tablice - ilość i suma liczb nieparzystych
+24. Tablice - ilość wystąpień danej liczby
+25. Tablice - suma i średnia
+26. Pętla for - (1 + 1/3 + 1/9 + ...)
+27. If - czy punkt należy do zbioru
+28. ---
+29. ---
+30. Wszystkie liczby pierwsze z przedziału [2,n] - drugi sposób
+31. Piramida - potęgi kolejnych liczb
+32. Sprawdzanie czy liczba jest doskonała
+33. Piramida złożona z "*"
+34. Pętla for w połączeniu z instrukcją warunkową
+35. Sprawdzanie czy liczba jest pierwsza
+36. ---
+37. Pętla for - (1/2 + 2/3 + 3/4 + ...)
+38. NWD - (Największy wspólnych dzielnik)
